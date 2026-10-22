@@ -1,6 +1,6 @@
 # Python Programming for Data Science and Machine Learning with Telecom and IoT Examples
 
-A learning repository covering Data science libraries, with practical examples and datasets for hands-on practice.
+I have designed this learning repository to cover Data Science libraries with Telecom and IoT examples for hands-on practice.
 
 ## 📚 Project Contents
 
